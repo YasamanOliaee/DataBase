@@ -1,5 +1,5 @@
 # DataBase
-My projects and practicess about databse 
+My projects and practicess about database 
 
 ## CustomerBehavior :
 
