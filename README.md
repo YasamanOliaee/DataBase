@@ -1,7 +1,7 @@
 # DataBase
 My projects and practicess about databse 
 
-#CustomerBehavior :
+## CustomerBehavior :
 
 first query: Identification of best-selling and low-selling products
 
